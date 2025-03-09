@@ -1,0 +1,22 @@
+[
+  {
+    "name": "DefenderRat",
+    "Info":{
+      "version": "3.2-beta-test",
+      "platform": {"windows": true, "linux": true, "mac": false},
+      "download": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/EWSdZyEUQgtjVA",
+      "icon": "https://raw.githubusercontent.com/RedmerGameAndTechnologies/JsonLauncher/refs/heads/main/icons/DefenderRat/Defender%20Rat.png",
+      "backround": "https://raw.githubusercontent.com/RedmerGameAndTechnologies/JsonLauncher/refs/heads/main/background/DefenderRat/DefenderRat_background.png"
+    }
+  },
+  {
+    "name": "DefenderRat",
+    "Info":{
+      "version": "1.2-beta-test",
+      "platform": {"windows": true, "linux": false, "mac": false},
+      "download": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/EWSdZyEUQgtjVA",
+      "icon": "https://raw.githubusercontent.com/RedmerGameAndTechnologies/JsonLauncher/refs/heads/main/icons/DefenderRat/Defender%20Rat.png",
+      "backround": "https://raw.githubusercontent.com/RedmerGameAndTechnologies/JsonLauncher/refs/heads/main/background/DefenderRat/DefenderRat_background.png"
+    }
+  }
+]
